@@ -73,9 +73,9 @@ const PROJECTS = [
     desc: "A production-structured e-commerce application with full product management, cart system, checkout, and a complete admin dashboard for managing products, orders, and users.",
     features: ["Product Search", "Cart & Checkout", "Order Tracking", "Admin Dashboard", "Stock Management"],
     stack: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB", "JWT", "bcrypt"],
-    liveUrl: null,
+    liveUrl: "https://luxstore-three.vercel.app/",
     githubUrl: "https://github.com/ajisolasodiq10-prog",
-    deployed: false,
+    deployed: true,
   },
 ];
 
