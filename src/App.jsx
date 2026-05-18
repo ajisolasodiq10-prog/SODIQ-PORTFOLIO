@@ -323,8 +323,8 @@ function About() {
               href="/AJISOLA_CV.docx"
               className="btn-outline"
               style={{fontSize:"0.78rem"}}
-              onClick={e => e.preventDefault()}
-              title="AJISOLA CV"
+              // onClick={e => e.preventDefault()}
+              title="AJISOLA_CV.docx"
             >
               📄 Download CV <span style={{fontSize:"0.6rem", color:"var(--text3)", marginLeft:"4px"}}></span>
             </a>
