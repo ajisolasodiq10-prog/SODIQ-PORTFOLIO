@@ -275,7 +275,7 @@ function Hero() {
             className="hero-photo"
           />
           <div className="hero-photo-badge">
-            <div className="num">1+</div>
+            <div className="num">2+</div>
             <div className="label">Years building</div>
           </div>
           <div className="hero-photo-badge2">
@@ -301,7 +301,7 @@ function About() {
         <div className="about-text">
           <p>
             I'm <strong>Ajisola Sodiq</strong>, a self-taught Full Stack Developer with
-             <strong>1+ year</strong> of hands-on experience building web applications
+             <strong> 2+ years</strong> of hands-on experience building web applications
             from scratch — no bootcamp, no shortcuts.
           </p>
           <p>
@@ -343,7 +343,7 @@ function About() {
             <div><span className="t-comment"> *Ajisola Sodiq*</span></div>
             <div><span className="t-key">name</span>: <span className="t-str">"Ajisola Sodiq"</span></div>
             <div><span className="t-key">role</span>: <span className="t-str">"Full Stack Developer"</span></div>
-            <div><span className="t-key">experience</span>: <span className="t-val">"~1 year"</span></div>
+            <div><span className="t-key">experience</span>: <span className="t-val">"~2 years"</span></div>
             <div><span className="t-key">location</span>: <span className="t-str">"Nigeria 🇳🇬"</span></div>
             <div><span className="t-key">available</span>: <span className="t-val">true</span></div>
             <div><span className="t-key">openTo</span>: <span className="t-str">"Remote / Freelance"</span></div>
@@ -482,7 +482,7 @@ function Experience() {
         <div>
           <div className="exp-role">Self-Taught Full Stack Developer</div>
           <div className="exp-org">Independent — Remote</div>
-          <div className="exp-period">2023 — Present · ~2 years</div>
+          <div className="exp-period">2024 — Present · ~2 years</div>
           <ul className="exp-points">
             <li>Built and deployed full-stack web applications independently from scratch</li>
             <li>Designed and implemented secure REST APIs with JWT authentication and role-based access control</li>
