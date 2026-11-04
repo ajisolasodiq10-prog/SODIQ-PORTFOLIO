@@ -18,7 +18,7 @@ const SKILLS = [
     items: [
       { name: "HTML5 & CSS3",       note: "strong" },
       { name: "Vanilla JavaScript", note: "strong" },
-      { name: "React",              note: "learning" },
+      { name: "React",              note: "confident" },
       { name: "SEO",              note: "learning" },
     ],
   },
@@ -320,11 +320,11 @@ function About() {
           </p>
           <div style={{marginTop: "24px"}}>
             <a
-              href="/AJISOLA_CV.docx"
+              href="/AJISOLA SODIQ_CV.pdf"
               className="btn-outline"
               style={{fontSize:"0.78rem"}}
               // onClick={e => e.preventDefault()}
-              title="AJISOLA_CV.docx"
+              title="AJISOLA- CV.pdf"
             >
               📄 Download CV <span style={{fontSize:"0.6rem", color:"var(--text3)", marginLeft:"4px"}}></span>
             </a>
@@ -471,7 +471,7 @@ function Experience() {
       <div className="section-label">04. Experience</div>
       <h2 className="section-title">How I've Grown</h2>
       <p className="section-sub">
-        Self-taught and project-driven, every line of experience earned by building real things.
+        Competent and project-driven, every line of experience earned by building real things.
       </p>
 
       <div className="exp-card">
@@ -480,7 +480,7 @@ function Experience() {
           <div className="exp-track" />
         </div>
         <div>
-          <div className="exp-role">Self-Taught Full Stack Developer</div>
+          <div className="exp-role">A Full Stack Developer</div>
           <div className="exp-org">Independent — Remote</div>
           <div className="exp-period">2024 — Present · ~2 years</div>
           <ul className="exp-points">
@@ -502,7 +502,7 @@ function Testimonials() {
   return (
     <section id="testimonials">
       <div className="section-label">05. Testimonials</div>
-      <h2 className="section-title">What People Say</h2>
+      <h2 className="section-title">What People Say about my Project.</h2>
       <p className="section-sub">
         Feedback from people I've worked with and built for.
       </p>
